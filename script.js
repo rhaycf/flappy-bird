@@ -37,7 +37,7 @@ const planoDeFundo = {
     }
 };
 
-// Chão]
+// Chão
 const chao = {
     spriteX: 0,
     spriteY: 610,
