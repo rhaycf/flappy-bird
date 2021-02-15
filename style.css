@@ -1,12 +1,30 @@
 body {
+    background: linear-gradient(45deg, #F0FFFF, #3CB371, #2E8B57, #228B22, #F0FFFF);
+    background-size: 500% 500%;
+
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    animation: colors 15s ease infinite;
 }
 
 canvas {
     border: 1px solid #000;
     display: block;
     margin: 0 auto;
+}
+
+@keyframes colors {
+    0% {
+        background-position: 0%, 50%;
+    }
+
+    50% {
+        background-position: 100%, 50%;
+    }
+
+    100% {
+        background-position: 0%, 50%;
+    }
 }
