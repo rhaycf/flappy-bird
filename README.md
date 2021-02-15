@@ -10,4 +10,4 @@ Projeto do canal DevSoutinho, que ensina a fazer o jogo Flappy Bird com JavaScri
 
 Para acessar o jogo, clique no link a seguir:
 
-<a target="_blank" href="https://rhaycf.github.io/flappy-bird/">Aperte para começar a jogar!!</a>
+<a target="_blank" href="https://rhaycf.github.io/flappy-bird/">Aperte aqui para começar a jogar!!</a>
