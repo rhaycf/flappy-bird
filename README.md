@@ -3,7 +3,7 @@
 
 💻 <strong>PROJETO</strong>
 
-Projeto do canal DevSoutinho, que ensina a fazer o jogo Flappy Bird com JavaScript do zero!
+Projeto do canal <a target="_blank" href="https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA">DevSoutinho</a>, que ensina a fazer o jogo Flappy Bird com JavaScript do zero!
 
 🚀 <strong>JOGO</strong>
 
