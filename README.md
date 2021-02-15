@@ -1,6 +1,8 @@
 # Flappy Bird
 
-<img src="./bird.jpg" alt="Imagem do jogo Flappy Bird">
+<p align="center">
+  http://escolabrasileiradegames.com.br/wp2016/wp-content/uploads/2016/10/escola-brasileira-de-games-flappy-bird.jpg
+</p>
 
 💻 <strong>PROJETO</strong>
 
