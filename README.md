@@ -1,4 +1,3 @@
-# Flappy Bird
 
  ![flappy](https://user-images.githubusercontent.com/65169776/108001075-42386080-6fca-11eb-92d4-1618fed99a66.jpg)
 
